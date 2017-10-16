@@ -10,7 +10,7 @@ from urllib.request import urlretrieve
 BASE_URL = 'http://www.pgatour.com/data/r'
 BASE_HOLE_URL = 'http://i.pgatour.com/image/upload/c_fill,w_1000,b_rgb:222'
 BASE_DATA_DIR = 'data/tournaments'
-YEARS = ['2015', '2016']
+YEARS = ['2015', '2016', '2017']
 TOURNEY_IDS = [
     '002', '003', '004', '005', '006', '007', '009', '010', '011',
     '012', '013', '014', '016', '018', '019', '020', '021', '023',
